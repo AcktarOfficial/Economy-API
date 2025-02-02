@@ -1,0 +1,5 @@
+{
+  "DB_NAME": "economy.db",
+  "DB_TYPE": "mongo",
+  "MONGO_URL": "MONGURLHERE"
+}
