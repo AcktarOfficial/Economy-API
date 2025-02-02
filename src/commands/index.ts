@@ -1,7 +1,9 @@
 import CREATE from "./create";
+import CHECK from "./check";
 
 const EconomyCommands = [
-  CREATE
+  CREATE,
+  CHECK
 ]
 
 export { EconomyCommands };
